@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\base_diff\base_diff\bin\Debug\base_diff.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\base_diff\base_diff\bin\Debug\base_diff.exe
+c:\users\dell\documents\visual studio 2017\Projects\base_diff\base_diff\bin\Debug\base_diff.pdb
+c:\users\dell\documents\visual studio 2017\Projects\base_diff\base_diff\obj\Debug\base_diff.exe
+c:\users\dell\documents\visual studio 2017\Projects\base_diff\base_diff\obj\Debug\base_diff.pdb

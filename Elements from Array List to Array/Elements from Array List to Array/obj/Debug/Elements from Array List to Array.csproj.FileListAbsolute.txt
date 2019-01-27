@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Elements from Array List to Array\Elements from Array List to Array\bin\Debug\Elements from Array List to Array.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Elements from Array List to Array\Elements from Array List to Array\bin\Debug\Elements from Array List to Array.exe
+c:\users\dell\documents\visual studio 2017\Projects\Elements from Array List to Array\Elements from Array List to Array\bin\Debug\Elements from Array List to Array.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Elements from Array List to Array\Elements from Array List to Array\obj\Debug\Elements from Array List to Array.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Elements from Array List to Array\Elements from Array List to Array\obj\Debug\Elements from Array List to Array.exe
+c:\users\dell\documents\visual studio 2017\Projects\Elements from Array List to Array\Elements from Array List to Array\obj\Debug\Elements from Array List to Array.pdb

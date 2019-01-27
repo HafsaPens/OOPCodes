@@ -1,0 +1,9 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\bin\Debug\admin_view.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\bin\Debug\admin_view.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\bin\Debug\admin_view.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\obj\Debug\admin_view.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\obj\Debug\admin_view.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\obj\Debug\admin_view.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\obj\Debug\admin_view.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\obj\Debug\admin_view.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\admin_view\admin_view\obj\Debug\admin_view.pdb

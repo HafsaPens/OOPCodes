@@ -1,0 +1,1 @@
+c:\users\dell\documents\visual studio 2017\Projects\static_constructor\static_constructor\obj\Debug\static_constructor.csprojResolveAssemblyReference.cache

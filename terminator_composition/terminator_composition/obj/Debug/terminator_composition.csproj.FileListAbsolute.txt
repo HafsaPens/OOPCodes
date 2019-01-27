@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\terminator_composition\terminator_composition\bin\Debug\terminator_composition.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\terminator_composition\terminator_composition\bin\Debug\terminator_composition.exe
+c:\users\dell\documents\visual studio 2017\Projects\terminator_composition\terminator_composition\bin\Debug\terminator_composition.pdb
+c:\users\dell\documents\visual studio 2017\Projects\terminator_composition\terminator_composition\obj\Debug\terminator_composition.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\terminator_composition\terminator_composition\obj\Debug\terminator_composition.exe
+c:\users\dell\documents\visual studio 2017\Projects\terminator_composition\terminator_composition\obj\Debug\terminator_composition.pdb

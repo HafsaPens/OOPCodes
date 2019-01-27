@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\abs_clas\abs_clas\bin\Debug\abs_clas.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\abs_clas\abs_clas\bin\Debug\abs_clas.exe
+c:\users\dell\documents\visual studio 2017\Projects\abs_clas\abs_clas\bin\Debug\abs_clas.pdb
+c:\users\dell\documents\visual studio 2017\Projects\abs_clas\abs_clas\obj\Debug\abs_clas.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\abs_clas\abs_clas\obj\Debug\abs_clas.exe
+c:\users\dell\documents\visual studio 2017\Projects\abs_clas\abs_clas\obj\Debug\abs_clas.pdb

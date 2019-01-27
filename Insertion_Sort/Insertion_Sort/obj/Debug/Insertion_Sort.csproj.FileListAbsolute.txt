@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Insertion_Sort\Insertion_Sort\bin\Debug\Insertion_Sort.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Insertion_Sort\Insertion_Sort\bin\Debug\Insertion_Sort.exe
+c:\users\dell\documents\visual studio 2017\Projects\Insertion_Sort\Insertion_Sort\bin\Debug\Insertion_Sort.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.exe
+c:\users\dell\documents\visual studio 2017\Projects\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.pdb

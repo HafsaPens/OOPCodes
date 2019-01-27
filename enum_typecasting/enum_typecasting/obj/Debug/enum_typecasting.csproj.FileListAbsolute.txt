@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\enum_typecasting\enum_typecasting\bin\Debug\enum_typecasting.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\enum_typecasting\enum_typecasting\bin\Debug\enum_typecasting.exe
+c:\users\dell\documents\visual studio 2017\Projects\enum_typecasting\enum_typecasting\bin\Debug\enum_typecasting.pdb
+c:\users\dell\documents\visual studio 2017\Projects\enum_typecasting\enum_typecasting\obj\Debug\enum_typecasting.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\enum_typecasting\enum_typecasting\obj\Debug\enum_typecasting.exe
+c:\users\dell\documents\visual studio 2017\Projects\enum_typecasting\enum_typecasting\obj\Debug\enum_typecasting.pdb

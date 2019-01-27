@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\staticinstance\staticinstance\bin\Debug\staticinstance.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\staticinstance\staticinstance\bin\Debug\staticinstance.exe
+c:\users\dell\documents\visual studio 2017\Projects\staticinstance\staticinstance\bin\Debug\staticinstance.pdb
+c:\users\dell\documents\visual studio 2017\Projects\staticinstance\staticinstance\obj\Debug\staticinstance.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\staticinstance\staticinstance\obj\Debug\staticinstance.exe
+c:\users\dell\documents\visual studio 2017\Projects\staticinstance\staticinstance\obj\Debug\staticinstance.pdb

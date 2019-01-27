@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\fahrenheit\fahrenheit\obj\Debug\fahrenheit.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\fahrenheit\fahrenheit\bin\Debug\fahrenheit.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\fahrenheit\fahrenheit\bin\Debug\fahrenheit.exe
+c:\users\dell\documents\visual studio 2017\Projects\fahrenheit\fahrenheit\bin\Debug\fahrenheit.pdb
+c:\users\dell\documents\visual studio 2017\Projects\fahrenheit\fahrenheit\obj\Debug\fahrenheit.exe
+c:\users\dell\documents\visual studio 2017\Projects\fahrenheit\fahrenheit\obj\Debug\fahrenheit.pdb

@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Instance_Constructor\Instance_Constructor\obj\Debug\Instance_Constructor.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Instance_Constructor\Instance_Constructor\bin\Debug\Instance_Constructor.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Instance_Constructor\Instance_Constructor\bin\Debug\Instance_Constructor.exe
+c:\users\dell\documents\visual studio 2017\Projects\Instance_Constructor\Instance_Constructor\bin\Debug\Instance_Constructor.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Instance_Constructor\Instance_Constructor\obj\Debug\Instance_Constructor.exe
+c:\users\dell\documents\visual studio 2017\Projects\Instance_Constructor\Instance_Constructor\obj\Debug\Instance_Constructor.pdb

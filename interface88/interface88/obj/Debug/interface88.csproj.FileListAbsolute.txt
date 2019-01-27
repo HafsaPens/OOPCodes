@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\interface88\interface88\bin\Debug\interface88.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\interface88\interface88\bin\Debug\interface88.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface88\interface88\bin\Debug\interface88.pdb
+c:\users\dell\documents\visual studio 2017\Projects\interface88\interface88\obj\Debug\interface88.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\interface88\interface88\obj\Debug\interface88.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface88\interface88\obj\Debug\interface88.pdb

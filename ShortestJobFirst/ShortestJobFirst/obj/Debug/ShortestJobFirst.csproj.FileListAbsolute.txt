@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\ShortestJobFirst\ShortestJobFirst\bin\Debug\ShortestJobFirst.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\ShortestJobFirst\ShortestJobFirst\bin\Debug\ShortestJobFirst.exe
+c:\users\dell\documents\visual studio 2017\Projects\ShortestJobFirst\ShortestJobFirst\bin\Debug\ShortestJobFirst.pdb
+c:\users\dell\documents\visual studio 2017\Projects\ShortestJobFirst\ShortestJobFirst\obj\Debug\ShortestJobFirst.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\ShortestJobFirst\ShortestJobFirst\obj\Debug\ShortestJobFirst.exe
+c:\users\dell\documents\visual studio 2017\Projects\ShortestJobFirst\ShortestJobFirst\obj\Debug\ShortestJobFirst.pdb

@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\interfacing\interfacing\bin\Debug\interfacing.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\interfacing\interfacing\bin\Debug\interfacing.exe
+c:\users\dell\documents\visual studio 2017\Projects\interfacing\interfacing\bin\Debug\interfacing.pdb
+c:\users\dell\documents\visual studio 2017\Projects\interfacing\interfacing\obj\Debug\interfacing.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\interfacing\interfacing\obj\Debug\interfacing.exe
+c:\users\dell\documents\visual studio 2017\Projects\interfacing\interfacing\obj\Debug\interfacing.pdb

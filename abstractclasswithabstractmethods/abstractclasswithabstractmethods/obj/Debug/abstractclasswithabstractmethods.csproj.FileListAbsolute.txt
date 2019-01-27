@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\abstractclasswithabstractmethods\abstractclasswithabstractmethods\bin\Debug\abstractclasswithabstractmethods.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\abstractclasswithabstractmethods\abstractclasswithabstractmethods\bin\Debug\abstractclasswithabstractmethods.exe
+c:\users\dell\documents\visual studio 2017\Projects\abstractclasswithabstractmethods\abstractclasswithabstractmethods\bin\Debug\abstractclasswithabstractmethods.pdb
+c:\users\dell\documents\visual studio 2017\Projects\abstractclasswithabstractmethods\abstractclasswithabstractmethods\obj\Debug\abstractclasswithabstractmethods.exe
+c:\users\dell\documents\visual studio 2017\Projects\abstractclasswithabstractmethods\abstractclasswithabstractmethods\obj\Debug\abstractclasswithabstractmethods.pdb

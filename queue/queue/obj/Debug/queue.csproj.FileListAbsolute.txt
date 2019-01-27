@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\queue\queue\obj\Debug\queue.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\queue\queue\bin\Debug\queue.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\queue\queue\bin\Debug\queue.exe
+c:\users\dell\documents\visual studio 2017\Projects\queue\queue\bin\Debug\queue.pdb
+c:\users\dell\documents\visual studio 2017\Projects\queue\queue\obj\Debug\queue.exe
+c:\users\dell\documents\visual studio 2017\Projects\queue\queue\obj\Debug\queue.pdb

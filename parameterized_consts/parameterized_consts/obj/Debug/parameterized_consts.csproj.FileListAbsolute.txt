@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\parameterized_consts\parameterized_consts\obj\Debug\parameterized_consts.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\parameterized_consts\parameterized_consts\bin\Debug\parameterized_consts.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\parameterized_consts\parameterized_consts\bin\Debug\parameterized_consts.exe
+c:\users\dell\documents\visual studio 2017\Projects\parameterized_consts\parameterized_consts\bin\Debug\parameterized_consts.pdb
+c:\users\dell\documents\visual studio 2017\Projects\parameterized_consts\parameterized_consts\obj\Debug\parameterized_consts.exe
+c:\users\dell\documents\visual studio 2017\Projects\parameterized_consts\parameterized_consts\obj\Debug\parameterized_consts.pdb

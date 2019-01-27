@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\arrayprint\arrayprint\bin\Debug\arrayprint.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\arrayprint\arrayprint\bin\Debug\arrayprint.exe
+c:\users\dell\documents\visual studio 2017\Projects\arrayprint\arrayprint\bin\Debug\arrayprint.pdb
+c:\users\dell\documents\visual studio 2017\Projects\arrayprint\arrayprint\obj\Debug\arrayprint.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\arrayprint\arrayprint\obj\Debug\arrayprint.exe
+c:\users\dell\documents\visual studio 2017\Projects\arrayprint\arrayprint\obj\Debug\arrayprint.pdb

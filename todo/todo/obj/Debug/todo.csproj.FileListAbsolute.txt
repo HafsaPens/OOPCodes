@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\bin\Debug\todo.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\bin\Debug\todo.exe
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\bin\Debug\todo.pdb
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.Form2.resources
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.exe
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.pdb
+c:\users\dell\documents\visual studio 2017\Projects\todo\todo\obj\Debug\todo.Form3.resources

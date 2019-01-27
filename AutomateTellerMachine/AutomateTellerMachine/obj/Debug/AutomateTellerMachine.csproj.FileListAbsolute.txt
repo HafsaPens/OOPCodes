@@ -1,0 +1,9 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\bin\Debug\AutomateTellerMachine.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\bin\Debug\AutomateTellerMachine.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\bin\Debug\AutomateTellerMachine.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\obj\Debug\AutomateTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\obj\Debug\AutomateTellerMachine.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\obj\Debug\AutomateTellerMachine.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\obj\Debug\AutomateTellerMachine.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\obj\Debug\AutomateTellerMachine.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\AutomateTellerMachine\AutomateTellerMachine\obj\Debug\AutomateTellerMachine.pdb

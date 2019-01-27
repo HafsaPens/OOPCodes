@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\my_static_constructor\my_static_constructor\obj\Debug\my_static_constructor.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\my_static_constructor\my_static_constructor\bin\Debug\my_static_constructor.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\my_static_constructor\my_static_constructor\bin\Debug\my_static_constructor.exe
+c:\users\dell\documents\visual studio 2017\Projects\my_static_constructor\my_static_constructor\bin\Debug\my_static_constructor.pdb
+c:\users\dell\documents\visual studio 2017\Projects\my_static_constructor\my_static_constructor\obj\Debug\my_static_constructor.exe
+c:\users\dell\documents\visual studio 2017\Projects\my_static_constructor\my_static_constructor\obj\Debug\my_static_constructor.pdb

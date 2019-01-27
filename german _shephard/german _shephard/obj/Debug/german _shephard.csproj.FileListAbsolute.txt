@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\german _shephard\german _shephard\bin\Debug\german _shephard.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\german _shephard\german _shephard\bin\Debug\german _shephard.exe
+c:\users\dell\documents\visual studio 2017\Projects\german _shephard\german _shephard\bin\Debug\german _shephard.pdb
+c:\users\dell\documents\visual studio 2017\Projects\german _shephard\german _shephard\obj\Debug\german _shephard.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\german _shephard\german _shephard\obj\Debug\german _shephard.exe
+c:\users\dell\documents\visual studio 2017\Projects\german _shephard\german _shephard\obj\Debug\german _shephard.pdb

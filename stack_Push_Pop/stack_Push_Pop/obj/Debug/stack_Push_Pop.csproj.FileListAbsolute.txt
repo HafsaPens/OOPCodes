@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\stack_Push_Pop\stack_Push_Pop\bin\Debug\stack_Push_Pop.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\stack_Push_Pop\stack_Push_Pop\bin\Debug\stack_Push_Pop.exe
+c:\users\dell\documents\visual studio 2017\Projects\stack_Push_Pop\stack_Push_Pop\bin\Debug\stack_Push_Pop.pdb
+c:\users\dell\documents\visual studio 2017\Projects\stack_Push_Pop\stack_Push_Pop\obj\Debug\stack_Push_Pop.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\stack_Push_Pop\stack_Push_Pop\obj\Debug\stack_Push_Pop.exe
+c:\users\dell\documents\visual studio 2017\Projects\stack_Push_Pop\stack_Push_Pop\obj\Debug\stack_Push_Pop.pdb

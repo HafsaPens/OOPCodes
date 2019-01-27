@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\static_variable execution\static_variable execution\obj\Debug\static_variable execution.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\static_variable execution\static_variable execution\bin\Debug\static_variable execution.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\static_variable execution\static_variable execution\bin\Debug\static_variable execution.exe
+c:\users\dell\documents\visual studio 2017\Projects\static_variable execution\static_variable execution\bin\Debug\static_variable execution.pdb
+c:\users\dell\documents\visual studio 2017\Projects\static_variable execution\static_variable execution\obj\Debug\static_variable execution.exe
+c:\users\dell\documents\visual studio 2017\Projects\static_variable execution\static_variable execution\obj\Debug\static_variable execution.pdb

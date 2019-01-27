@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\encapsulate\encapsulate\bin\Debug\encapsulate.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\encapsulate\encapsulate\bin\Debug\encapsulate.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\encapsulate\encapsulate\bin\Debug\encapsulate.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\encapsulate\encapsulate\obj\Debug\encapsulate.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\encapsulate\encapsulate\obj\Debug\encapsulate.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\encapsulate\encapsulate\obj\Debug\encapsulate.pdb

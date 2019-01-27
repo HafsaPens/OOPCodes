@@ -1,0 +1,6 @@
+C:\Users\dell\documents\visual studio 2017\Projects\linear_queue\linear_queue\bin\Debug\linear_queue.exe.config
+C:\Users\dell\documents\visual studio 2017\Projects\linear_queue\linear_queue\bin\Debug\linear_queue.exe
+C:\Users\dell\documents\visual studio 2017\Projects\linear_queue\linear_queue\bin\Debug\linear_queue.pdb
+C:\Users\dell\documents\visual studio 2017\Projects\linear_queue\linear_queue\obj\Debug\linear_queue.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2017\Projects\linear_queue\linear_queue\obj\Debug\linear_queue.exe
+C:\Users\dell\documents\visual studio 2017\Projects\linear_queue\linear_queue\obj\Debug\linear_queue.pdb

@@ -1,0 +1,14 @@
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\bin\Debug\form1.exe.config
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\bin\Debug\form1.exe
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\bin\Debug\form1.pdb
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.Form1.resources
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.Form2.resources
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.Form3.resources
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.Form4.resources
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.Form5.resources
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.exe
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.pdb
+C:\Users\dell\documents\visual studio 2017\Projects\form1\form1\obj\Debug\form1.Form6.resources

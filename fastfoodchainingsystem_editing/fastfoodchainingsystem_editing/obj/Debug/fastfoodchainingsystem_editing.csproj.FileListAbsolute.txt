@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\fastfoodchainingsystem_editing\fastfoodchainingsystem_editing\obj\Debug\fastfoodchainingsystem_editing.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\fastfoodchainingsystem_editing\fastfoodchainingsystem_editing\bin\Debug\fastfoodchainingsystem_editing.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\fastfoodchainingsystem_editing\fastfoodchainingsystem_editing\bin\Debug\fastfoodchainingsystem_editing.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\fastfoodchainingsystem_editing\fastfoodchainingsystem_editing\bin\Debug\fastfoodchainingsystem_editing.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\fastfoodchainingsystem_editing\fastfoodchainingsystem_editing\obj\Debug\fastfoodchainingsystem_editing.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\fastfoodchainingsystem_editing\fastfoodchainingsystem_editing\obj\Debug\fastfoodchainingsystem_editing.pdb

@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\reference type\reference type\obj\Debug\reference type.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\reference type\reference type\bin\Debug\reference type.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\reference type\reference type\bin\Debug\reference type.exe
+c:\users\dell\documents\visual studio 2017\Projects\reference type\reference type\bin\Debug\reference type.pdb
+c:\users\dell\documents\visual studio 2017\Projects\reference type\reference type\obj\Debug\reference type.exe
+c:\users\dell\documents\visual studio 2017\Projects\reference type\reference type\obj\Debug\reference type.pdb

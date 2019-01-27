@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\bin\Debug\listoftodo.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\bin\Debug\listoftodo.exe
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\bin\Debug\listoftodo.pdb
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\obj\Debug\listoftodo.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\obj\Debug\listoftodo.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\obj\Debug\listoftodo.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\obj\Debug\listoftodo.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\obj\Debug\listoftodo.exe
+c:\users\dell\documents\visual studio 2017\Projects\listoftodo\listoftodo\obj\Debug\listoftodo.pdb

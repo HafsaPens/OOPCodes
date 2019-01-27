@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\abstract_class\abstract_class\bin\Debug\abstract_class.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\abstract_class\abstract_class\bin\Debug\abstract_class.exe
+c:\users\dell\documents\visual studio 2017\Projects\abstract_class\abstract_class\bin\Debug\abstract_class.pdb
+c:\users\dell\documents\visual studio 2017\Projects\abstract_class\abstract_class\obj\Debug\abstract_class.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\abstract_class\abstract_class\obj\Debug\abstract_class.exe
+c:\users\dell\documents\visual studio 2017\Projects\abstract_class\abstract_class\obj\Debug\abstract_class.pdb

@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\pure_polymorphism\pure_polymorphism\obj\Debug\pure_polymorphism.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\pure_polymorphism\pure_polymorphism\bin\Debug\pure_polymorphism.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\pure_polymorphism\pure_polymorphism\bin\Debug\pure_polymorphism.exe
+c:\users\dell\documents\visual studio 2017\Projects\pure_polymorphism\pure_polymorphism\bin\Debug\pure_polymorphism.pdb
+c:\users\dell\documents\visual studio 2017\Projects\pure_polymorphism\pure_polymorphism\obj\Debug\pure_polymorphism.exe
+c:\users\dell\documents\visual studio 2017\Projects\pure_polymorphism\pure_polymorphism\obj\Debug\pure_polymorphism.pdb

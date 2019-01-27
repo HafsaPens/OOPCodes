@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Interrupt_handling\Interrupt_handling\bin\Debug\Interrupt_handling.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Interrupt_handling\Interrupt_handling\bin\Debug\Interrupt_handling.exe
+c:\users\dell\documents\visual studio 2017\Projects\Interrupt_handling\Interrupt_handling\bin\Debug\Interrupt_handling.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Interrupt_handling\Interrupt_handling\obj\Debug\Interrupt_handling.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Interrupt_handling\Interrupt_handling\obj\Debug\Interrupt_handling.exe
+c:\users\dell\documents\visual studio 2017\Projects\Interrupt_handling\Interrupt_handling\obj\Debug\Interrupt_handling.pdb

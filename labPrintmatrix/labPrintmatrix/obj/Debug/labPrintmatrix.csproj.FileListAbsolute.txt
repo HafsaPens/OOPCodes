@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\labPrintmatrix\labPrintmatrix\bin\Debug\labPrintmatrix.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\labPrintmatrix\labPrintmatrix\bin\Debug\labPrintmatrix.exe
+c:\users\dell\documents\visual studio 2017\Projects\labPrintmatrix\labPrintmatrix\bin\Debug\labPrintmatrix.pdb
+c:\users\dell\documents\visual studio 2017\Projects\labPrintmatrix\labPrintmatrix\obj\Debug\labPrintmatrix.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\labPrintmatrix\labPrintmatrix\obj\Debug\labPrintmatrix.exe
+c:\users\dell\documents\visual studio 2017\Projects\labPrintmatrix\labPrintmatrix\obj\Debug\labPrintmatrix.pdb

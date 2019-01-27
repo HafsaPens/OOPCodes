@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\Stack_With_Linkedlist\Stack_With_Linkedlist\bin\Debug\Stack_With_Linkedlist.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\Stack_With_Linkedlist\Stack_With_Linkedlist\bin\Debug\Stack_With_Linkedlist.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\Stack_With_Linkedlist\Stack_With_Linkedlist\bin\Debug\Stack_With_Linkedlist.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\Stack_With_Linkedlist\Stack_With_Linkedlist\obj\Debug\Stack_With_Linkedlist.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\Stack_With_Linkedlist\Stack_With_Linkedlist\obj\Debug\Stack_With_Linkedlist.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\Stack_With_Linkedlist\Stack_With_Linkedlist\obj\Debug\Stack_With_Linkedlist.csprojResolveAssemblyReference.cache

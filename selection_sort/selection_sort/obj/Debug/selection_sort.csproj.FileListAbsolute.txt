@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.pdb

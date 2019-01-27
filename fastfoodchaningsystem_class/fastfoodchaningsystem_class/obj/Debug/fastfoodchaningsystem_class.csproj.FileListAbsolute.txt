@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\fastfoodchaningsystem_class\fastfoodchaningsystem_class\obj\Debug\fastfoodchaningsystem_class.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\fastfoodchaningsystem_class\fastfoodchaningsystem_class\bin\Debug\fastfoodchaningsystem_class.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\fastfoodchaningsystem_class\fastfoodchaningsystem_class\bin\Debug\fastfoodchaningsystem_class.exe
+c:\users\dell\documents\visual studio 2017\Projects\fastfoodchaningsystem_class\fastfoodchaningsystem_class\bin\Debug\fastfoodchaningsystem_class.pdb
+c:\users\dell\documents\visual studio 2017\Projects\fastfoodchaningsystem_class\fastfoodchaningsystem_class\obj\Debug\fastfoodchaningsystem_class.exe
+c:\users\dell\documents\visual studio 2017\Projects\fastfoodchaningsystem_class\fastfoodchaningsystem_class\obj\Debug\fastfoodchaningsystem_class.pdb

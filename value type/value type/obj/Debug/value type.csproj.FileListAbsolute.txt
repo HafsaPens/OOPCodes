@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\value type\value type\bin\Debug\value type.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\value type\value type\bin\Debug\value type.exe
+c:\users\dell\documents\visual studio 2017\Projects\value type\value type\bin\Debug\value type.pdb
+c:\users\dell\documents\visual studio 2017\Projects\value type\value type\obj\Debug\value type.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\value type\value type\obj\Debug\value type.exe
+c:\users\dell\documents\visual studio 2017\Projects\value type\value type\obj\Debug\value type.pdb

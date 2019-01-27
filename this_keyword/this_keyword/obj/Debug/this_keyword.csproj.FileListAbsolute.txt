@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\this_keyword\this_keyword\obj\Debug\this_keyword.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\this_keyword\this_keyword\bin\Debug\this_keyword.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\this_keyword\this_keyword\bin\Debug\this_keyword.exe
+c:\users\dell\documents\visual studio 2017\Projects\this_keyword\this_keyword\bin\Debug\this_keyword.pdb
+c:\users\dell\documents\visual studio 2017\Projects\this_keyword\this_keyword\obj\Debug\this_keyword.exe
+c:\users\dell\documents\visual studio 2017\Projects\this_keyword\this_keyword\obj\Debug\this_keyword.pdb

@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\binary_search\binary_search\bin\Debug\binary_search.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\binary_search\binary_search\bin\Debug\binary_search.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\binary_search\binary_search\bin\Debug\binary_search.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\binary_search\binary_search\obj\Debug\binary_search.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\binary_search\binary_search\obj\Debug\binary_search.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\binary_search\binary_search\obj\Debug\binary_search.csprojResolveAssemblyReference.cache

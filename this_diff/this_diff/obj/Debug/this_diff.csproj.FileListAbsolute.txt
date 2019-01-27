@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\this_diff\this_diff\bin\Debug\this_diff.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\this_diff\this_diff\bin\Debug\this_diff.exe
+c:\users\dell\documents\visual studio 2017\Projects\this_diff\this_diff\bin\Debug\this_diff.pdb
+c:\users\dell\documents\visual studio 2017\Projects\this_diff\this_diff\obj\Debug\this_diff.exe
+c:\users\dell\documents\visual studio 2017\Projects\this_diff\this_diff\obj\Debug\this_diff.pdb

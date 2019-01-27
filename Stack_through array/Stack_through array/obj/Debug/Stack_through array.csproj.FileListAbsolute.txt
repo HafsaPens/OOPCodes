@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Stack_through array\Stack_through array\bin\Debug\Stack_through array.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Stack_through array\Stack_through array\bin\Debug\Stack_through array.exe
+c:\users\dell\documents\visual studio 2017\Projects\Stack_through array\Stack_through array\bin\Debug\Stack_through array.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Stack_through array\Stack_through array\obj\Debug\Stack_through array.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Stack_through array\Stack_through array\obj\Debug\Stack_through array.exe
+c:\users\dell\documents\visual studio 2017\Projects\Stack_through array\Stack_through array\obj\Debug\Stack_through array.pdb

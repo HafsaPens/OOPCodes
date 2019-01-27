@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\oopfirst\oopfirst\obj\Debug\oopfirst.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\oopfirst\oopfirst\bin\Debug\oopfirst.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\oopfirst\oopfirst\bin\Debug\oopfirst.exe
+c:\users\dell\documents\visual studio 2017\Projects\oopfirst\oopfirst\bin\Debug\oopfirst.pdb
+c:\users\dell\documents\visual studio 2017\Projects\oopfirst\oopfirst\obj\Debug\oopfirst.exe
+c:\users\dell\documents\visual studio 2017\Projects\oopfirst\oopfirst\obj\Debug\oopfirst.pdb

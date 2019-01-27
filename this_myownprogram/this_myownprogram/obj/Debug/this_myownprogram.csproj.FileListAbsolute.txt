@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\this_myownprogram\this_myownprogram\bin\Debug\this_myownprogram.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\this_myownprogram\this_myownprogram\bin\Debug\this_myownprogram.exe
+c:\users\dell\documents\visual studio 2017\Projects\this_myownprogram\this_myownprogram\bin\Debug\this_myownprogram.pdb
+c:\users\dell\documents\visual studio 2017\Projects\this_myownprogram\this_myownprogram\obj\Debug\this_myownprogram.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\this_myownprogram\this_myownprogram\obj\Debug\this_myownprogram.exe
+c:\users\dell\documents\visual studio 2017\Projects\this_myownprogram\this_myownprogram\obj\Debug\this_myownprogram.pdb

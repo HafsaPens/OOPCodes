@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\virt_oveeride\virt_oveeride\bin\Debug\virt_oveeride.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\virt_oveeride\virt_oveeride\bin\Debug\virt_oveeride.exe
+c:\users\dell\documents\visual studio 2017\Projects\virt_oveeride\virt_oveeride\bin\Debug\virt_oveeride.pdb
+c:\users\dell\documents\visual studio 2017\Projects\virt_oveeride\virt_oveeride\obj\Debug\virt_oveeride.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\virt_oveeride\virt_oveeride\obj\Debug\virt_oveeride.exe
+c:\users\dell\documents\visual studio 2017\Projects\virt_oveeride\virt_oveeride\obj\Debug\virt_oveeride.pdb

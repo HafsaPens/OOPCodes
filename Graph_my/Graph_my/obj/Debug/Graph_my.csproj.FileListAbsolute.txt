@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Graph_my\Graph_my\obj\Debug\Graph_my.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Graph_my\Graph_my\bin\Debug\Graph_my.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Graph_my\Graph_my\bin\Debug\Graph_my.exe
+c:\users\dell\documents\visual studio 2017\Projects\Graph_my\Graph_my\bin\Debug\Graph_my.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Graph_my\Graph_my\obj\Debug\Graph_my.exe
+c:\users\dell\documents\visual studio 2017\Projects\Graph_my\Graph_my\obj\Debug\Graph_my.pdb

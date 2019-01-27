@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\courses_constructors\courses_constructors\obj\Debug\courses_constructors.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\courses_constructors\courses_constructors\bin\Debug\courses_constructors.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\courses_constructors\courses_constructors\bin\Debug\courses_constructors.exe
+c:\users\dell\documents\visual studio 2017\Projects\courses_constructors\courses_constructors\bin\Debug\courses_constructors.pdb
+c:\users\dell\documents\visual studio 2017\Projects\courses_constructors\courses_constructors\obj\Debug\courses_constructors.exe
+c:\users\dell\documents\visual studio 2017\Projects\courses_constructors\courses_constructors\obj\Debug\courses_constructors.pdb

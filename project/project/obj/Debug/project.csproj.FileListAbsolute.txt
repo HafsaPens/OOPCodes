@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\project\project\bin\Debug\project.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\project\project\bin\Debug\project.exe
+c:\users\dell\documents\visual studio 2017\Projects\project\project\bin\Debug\project.pdb
+c:\users\dell\documents\visual studio 2017\Projects\project\project\obj\Debug\project.exe
+c:\users\dell\documents\visual studio 2017\Projects\project\project\obj\Debug\project.pdb

@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\interface1\interface1\bin\Debug\interface1.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\interface1\interface1\bin\Debug\interface1.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface1\interface1\bin\Debug\interface1.pdb
+c:\users\dell\documents\visual studio 2017\Projects\interface1\interface1\obj\Debug\interface1.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface1\interface1\obj\Debug\interface1.pdb

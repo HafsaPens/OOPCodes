@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Dubly_linkedlist\Dubly_linkedlist\bin\Debug\Dubly_linkedlist.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Dubly_linkedlist\Dubly_linkedlist\bin\Debug\Dubly_linkedlist.exe
+c:\users\dell\documents\visual studio 2017\Projects\Dubly_linkedlist\Dubly_linkedlist\bin\Debug\Dubly_linkedlist.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Dubly_linkedlist\Dubly_linkedlist\obj\Debug\Dubly_linkedlist.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Dubly_linkedlist\Dubly_linkedlist\obj\Debug\Dubly_linkedlist.exe
+c:\users\dell\documents\visual studio 2017\Projects\Dubly_linkedlist\Dubly_linkedlist\obj\Debug\Dubly_linkedlist.pdb

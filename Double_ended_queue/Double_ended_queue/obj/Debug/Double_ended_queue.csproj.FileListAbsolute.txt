@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Double_ended_queue\Double_ended_queue\bin\Debug\Double_ended_queue.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Double_ended_queue\Double_ended_queue\bin\Debug\Double_ended_queue.exe
+c:\users\dell\documents\visual studio 2017\Projects\Double_ended_queue\Double_ended_queue\bin\Debug\Double_ended_queue.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Double_ended_queue\Double_ended_queue\obj\Debug\Double_ended_queue.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Double_ended_queue\Double_ended_queue\obj\Debug\Double_ended_queue.exe
+c:\users\dell\documents\visual studio 2017\Projects\Double_ended_queue\Double_ended_queue\obj\Debug\Double_ended_queue.pdb

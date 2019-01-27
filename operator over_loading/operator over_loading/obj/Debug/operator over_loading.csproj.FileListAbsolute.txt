@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\operator over_loading\operator over_loading\obj\Debug\operator over_loading.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\operator over_loading\operator over_loading\bin\Debug\operator over_loading.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\operator over_loading\operator over_loading\bin\Debug\operator over_loading.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\operator over_loading\operator over_loading\bin\Debug\operator over_loading.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\operator over_loading\operator over_loading\obj\Debug\operator over_loading.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\operator over_loading\operator over_loading\obj\Debug\operator over_loading.pdb

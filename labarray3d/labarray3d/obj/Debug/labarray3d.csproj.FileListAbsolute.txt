@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\labarray3d\labarray3d\bin\Debug\labarray3d.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\labarray3d\labarray3d\bin\Debug\labarray3d.exe
+c:\users\dell\documents\visual studio 2017\Projects\labarray3d\labarray3d\bin\Debug\labarray3d.pdb
+c:\users\dell\documents\visual studio 2017\Projects\labarray3d\labarray3d\obj\Debug\labarray3d.exe
+c:\users\dell\documents\visual studio 2017\Projects\labarray3d\labarray3d\obj\Debug\labarray3d.pdb
+c:\users\dell\documents\visual studio 2017\Projects\labarray3d\labarray3d\obj\Debug\labarray3d.csprojResolveAssemblyReference.cache

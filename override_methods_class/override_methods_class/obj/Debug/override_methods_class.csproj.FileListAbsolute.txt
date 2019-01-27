@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\override_methods_class\override_methods_class\bin\Debug\override_methods_class.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\override_methods_class\override_methods_class\bin\Debug\override_methods_class.exe
+c:\users\dell\documents\visual studio 2017\Projects\override_methods_class\override_methods_class\bin\Debug\override_methods_class.pdb
+c:\users\dell\documents\visual studio 2017\Projects\override_methods_class\override_methods_class\obj\Debug\override_methods_class.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\override_methods_class\override_methods_class\obj\Debug\override_methods_class.exe
+c:\users\dell\documents\visual studio 2017\Projects\override_methods_class\override_methods_class\obj\Debug\override_methods_class.pdb

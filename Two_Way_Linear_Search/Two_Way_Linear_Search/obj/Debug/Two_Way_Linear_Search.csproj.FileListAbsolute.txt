@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Two_Way_Linear_Search\Two_Way_Linear_Search\bin\Debug\Two_Way_Linear_Search.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Two_Way_Linear_Search\Two_Way_Linear_Search\bin\Debug\Two_Way_Linear_Search.exe
+c:\users\dell\documents\visual studio 2017\Projects\Two_Way_Linear_Search\Two_Way_Linear_Search\bin\Debug\Two_Way_Linear_Search.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Two_Way_Linear_Search\Two_Way_Linear_Search\obj\Debug\Two_Way_Linear_Search.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Two_Way_Linear_Search\Two_Way_Linear_Search\obj\Debug\Two_Way_Linear_Search.exe
+c:\users\dell\documents\visual studio 2017\Projects\Two_Way_Linear_Search\Two_Way_Linear_Search\obj\Debug\Two_Way_Linear_Search.pdb

@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.Form2.resources
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\bin\Debug\MYTODOLIST.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\bin\Debug\MYTODOLIST.exe
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\bin\Debug\MYTODOLIST.pdb
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.exe
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.pdb
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.Form3.resources
+c:\users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.Form4.resources
+C:\Users\dell\documents\visual studio 2017\Projects\MYTODOLIST\MYTODOLIST\obj\Debug\MYTODOLIST.Form5.resources

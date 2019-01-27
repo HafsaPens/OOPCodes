@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Compose\Compose\bin\Debug\Compose.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Compose\Compose\bin\Debug\Compose.exe
+c:\users\dell\documents\visual studio 2017\Projects\Compose\Compose\bin\Debug\Compose.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Compose\Compose\obj\Debug\Compose.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Compose\Compose\obj\Debug\Compose.exe
+c:\users\dell\documents\visual studio 2017\Projects\Compose\Compose\obj\Debug\Compose.pdb

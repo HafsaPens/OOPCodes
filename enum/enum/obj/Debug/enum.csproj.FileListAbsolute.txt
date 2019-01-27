@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\enum\enum\bin\Debug\@enum.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\enum\enum\bin\Debug\@enum.exe
+c:\users\dell\documents\visual studio 2017\Projects\enum\enum\bin\Debug\@enum.pdb
+c:\users\dell\documents\visual studio 2017\Projects\enum\enum\obj\Debug\enum.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\enum\enum\obj\Debug\@enum.exe
+c:\users\dell\documents\visual studio 2017\Projects\enum\enum\obj\Debug\@enum.pdb

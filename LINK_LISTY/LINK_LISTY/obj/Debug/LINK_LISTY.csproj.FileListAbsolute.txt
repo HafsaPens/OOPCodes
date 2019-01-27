@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\LINK_LISTY\LINK_LISTY\bin\Debug\LINK_LISTY.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\LINK_LISTY\LINK_LISTY\bin\Debug\LINK_LISTY.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\LINK_LISTY\LINK_LISTY\bin\Debug\LINK_LISTY.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\LINK_LISTY\LINK_LISTY\obj\Debug\LINK_LISTY.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\LINK_LISTY\LINK_LISTY\obj\Debug\LINK_LISTY.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\LINK_LISTY\LINK_LISTY\obj\Debug\LINK_LISTY.pdb

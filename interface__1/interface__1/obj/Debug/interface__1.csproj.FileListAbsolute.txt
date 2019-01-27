@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\interface__1\interface__1\bin\Debug\interface__1.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\interface__1\interface__1\bin\Debug\interface__1.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface__1\interface__1\bin\Debug\interface__1.pdb
+c:\users\dell\documents\visual studio 2017\Projects\interface__1\interface__1\obj\Debug\interface__1.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\interface__1\interface__1\obj\Debug\interface__1.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface__1\interface__1\obj\Debug\interface__1.pdb

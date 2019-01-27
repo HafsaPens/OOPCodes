@@ -1,0 +1,9 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\bin\Debug\access.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\bin\Debug\access.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\bin\Debug\access.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\obj\Debug\access.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\obj\Debug\access.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\obj\Debug\access.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\obj\Debug\access.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\obj\Debug\access.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\access\access\obj\Debug\access.pdb

@@ -1,0 +1,5 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\stack_collection\stack_collection\bin\Debug\stack_collection.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\stack_collection\stack_collection\bin\Debug\stack_collection.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\stack_collection\stack_collection\bin\Debug\stack_collection.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\stack_collection\stack_collection\obj\Debug\stack_collection.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\stack_collection\stack_collection\obj\Debug\stack_collection.pdb

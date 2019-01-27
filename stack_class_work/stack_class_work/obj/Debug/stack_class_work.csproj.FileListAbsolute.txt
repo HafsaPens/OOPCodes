@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\stack_class_work\stack_class_work\bin\Debug\stack_class_work.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\stack_class_work\stack_class_work\bin\Debug\stack_class_work.exe
+c:\users\dell\documents\visual studio 2017\Projects\stack_class_work\stack_class_work\bin\Debug\stack_class_work.pdb
+c:\users\dell\documents\visual studio 2017\Projects\stack_class_work\stack_class_work\obj\Debug\stack_class_work.exe
+c:\users\dell\documents\visual studio 2017\Projects\stack_class_work\stack_class_work\obj\Debug\stack_class_work.pdb

@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe
+c:\users\dell\documents\visual studio 2017\Projects\bubble_sort\bubble_sort\bin\Debug\bubble_sort.pdb
+c:\users\dell\documents\visual studio 2017\Projects\bubble_sort\bubble_sort\obj\Debug\bubble_sort.exe
+c:\users\dell\documents\visual studio 2017\Projects\bubble_sort\bubble_sort\obj\Debug\bubble_sort.pdb

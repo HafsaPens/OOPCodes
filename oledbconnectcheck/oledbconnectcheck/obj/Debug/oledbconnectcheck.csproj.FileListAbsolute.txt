@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\bin\Debug\oledbconnectcheck.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\bin\Debug\oledbconnectcheck.exe
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\bin\Debug\oledbconnectcheck.pdb
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\obj\Debug\oledbconnectcheck.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\obj\Debug\oledbconnectcheck.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\obj\Debug\oledbconnectcheck.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\obj\Debug\oledbconnectcheck.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\obj\Debug\oledbconnectcheck.exe
+c:\users\dell\documents\visual studio 2017\Projects\oledbconnectcheck\oledbconnectcheck\obj\Debug\oledbconnectcheck.pdb

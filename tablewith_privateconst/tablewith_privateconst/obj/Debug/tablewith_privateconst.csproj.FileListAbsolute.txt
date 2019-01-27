@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\tablewith_privateconst\tablewith_privateconst\obj\Debug\tablewith_privateconst.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tablewith_privateconst\tablewith_privateconst\bin\Debug\tablewith_privateconst.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tablewith_privateconst\tablewith_privateconst\bin\Debug\tablewith_privateconst.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tablewith_privateconst\tablewith_privateconst\bin\Debug\tablewith_privateconst.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tablewith_privateconst\tablewith_privateconst\obj\Debug\tablewith_privateconst.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tablewith_privateconst\tablewith_privateconst\obj\Debug\tablewith_privateconst.pdb

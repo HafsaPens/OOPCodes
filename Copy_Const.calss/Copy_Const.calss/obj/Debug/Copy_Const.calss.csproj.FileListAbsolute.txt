@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\Copy_Const.calss\Copy_Const.calss\bin\Debug\Copy_Const.calss.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Copy_Const.calss\Copy_Const.calss\bin\Debug\Copy_Const.calss.exe
+c:\users\dell\documents\visual studio 2017\Projects\Copy_Const.calss\Copy_Const.calss\bin\Debug\Copy_Const.calss.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Copy_Const.calss\Copy_Const.calss\obj\Debug\Copy_Const.calss.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Copy_Const.calss\Copy_Const.calss\obj\Debug\Copy_Const.calss.exe
+c:\users\dell\documents\visual studio 2017\Projects\Copy_Const.calss\Copy_Const.calss\obj\Debug\Copy_Const.calss.pdb

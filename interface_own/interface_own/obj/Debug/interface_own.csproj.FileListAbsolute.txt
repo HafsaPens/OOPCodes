@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\interface_own\interface_own\bin\Debug\interface_own.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\interface_own\interface_own\bin\Debug\interface_own.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface_own\interface_own\bin\Debug\interface_own.pdb
+c:\users\dell\documents\visual studio 2017\Projects\interface_own\interface_own\obj\Debug\interface_own.exe
+c:\users\dell\documents\visual studio 2017\Projects\interface_own\interface_own\obj\Debug\interface_own.pdb

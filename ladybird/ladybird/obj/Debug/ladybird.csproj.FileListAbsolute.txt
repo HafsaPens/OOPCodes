@@ -1,0 +1,8 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\bin\Debug\ladybird.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\bin\Debug\ladybird.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\bin\Debug\ladybird.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\obj\Debug\ladybird.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\obj\Debug\ladybird.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\obj\Debug\ladybird.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\obj\Debug\ladybird.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\ladybird\ladybird\obj\Debug\ladybird.pdb
